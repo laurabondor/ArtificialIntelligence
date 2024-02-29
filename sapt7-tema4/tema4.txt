@@ -1,0 +1,11 @@
+70% si 30% impartirea datelor
+-generare ponderi: valori random intre [-1,1], daca valoarea random este 0 sa alegem alta din nou
+-epoca: trecerea fiecarui atribut prin retea
+
+obs: folosirea unei biblioteci existente scade din punctaje la urmatoarea tema, dar in general e ff bine sa folosim bibliteci cica
+
+partea a 2-a:
+-la predicția pe setul de date de testare și afișarea metricilor de performanță
+cu matricea de confuzie(3 formule)
+f_score in loc de medie: 2(pr)/p+r
+precizia pe datele de test
